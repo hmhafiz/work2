@@ -1,0 +1,60 @@
+body{
+	background-color:turquoise;
+	min-height:500px;
+}	
+.h1{background-color:red;
+	min-height:40px;
+	padding:15px;
+	font-size:30px;
+	text-align:center;
+	color:white;
+}
+
+.na{
+	background-color:yellow;
+	min-height:50px;
+	padding:15px;
+	font-size:30px;
+	text-align:center;
+	color:white;
+
+}
+.header{
+	background-color:blue;
+	min-height:80px;
+	padding:15px;
+	font-size:30px;
+	text-align:center;
+	color:white;
+}
+.blog{
+	background-color:purple;
+	min-height:250px;
+	width:33%;
+	float:left;
+	overflow:hidden;
+}
+.demo{
+	background-color:lime;
+	min-height:250px;
+	width:33%;
+	float:left;
+}
+
+.banner{
+	background-color:green;
+	min-height:250px;
+	width:33px;
+	float:left;
+	clear:right;
+	
+}	
+.footer{
+	background-color:orange;
+	min-height:30px;
+	padding:15px;
+	font-size:20px;
+	text-align:center;
+	color:red;
+	clear:both;
+}
